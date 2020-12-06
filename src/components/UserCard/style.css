@@ -1,0 +1,17 @@
+.card {
+    margin: 1em;
+}
+
+img {
+    border-radius: 50%;
+    width: 5em;
+    box-shadow: 2px 2px 4px #000000;
+}
+
+h2 {
+    padding-top: .5em;
+}
+
+p {
+    font-size: 1em;
+}
