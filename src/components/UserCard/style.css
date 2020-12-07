@@ -10,6 +10,7 @@ img {
 
 h2 {
     padding-top: .5em;
+    text-shadow: .75px .75px 1px #414141;
 }
 
 p {
