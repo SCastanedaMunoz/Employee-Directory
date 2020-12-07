@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SCastanedaMunoz/Employee-Directory/static/css/main.31e959d4.chunk.css",
+    "main.js": "/SCastanedaMunoz/Employee-Directory/static/js/main.bd06c5fd.chunk.js",
+    "main.js.map": "/SCastanedaMunoz/Employee-Directory/static/js/main.bd06c5fd.chunk.js.map",
+    "runtime-main.js": "/SCastanedaMunoz/Employee-Directory/static/js/runtime-main.c5131bdb.js",
+    "runtime-main.js.map": "/SCastanedaMunoz/Employee-Directory/static/js/runtime-main.c5131bdb.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/SCastanedaMunoz/Employee-Directory/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.90bfb309.chunk.js": "/SCastanedaMunoz/Employee-Directory/static/js/2.90bfb309.chunk.js",
+    "static/js/2.90bfb309.chunk.js.map": "/SCastanedaMunoz/Employee-Directory/static/js/2.90bfb309.chunk.js.map",
+    "index.html": "/SCastanedaMunoz/Employee-Directory/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/SCastanedaMunoz/Employee-Directory/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.31e959d4.chunk.css.map": "/SCastanedaMunoz/Employee-Directory/static/css/main.31e959d4.chunk.css.map",
+    "static/js/2.90bfb309.chunk.js.LICENSE.txt": "/SCastanedaMunoz/Employee-Directory/static/js/2.90bfb309.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5131bdb.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.90bfb309.chunk.js",
+    "static/css/main.31e959d4.chunk.css",
+    "static/js/main.bd06c5fd.chunk.js"
+  ]
+}
